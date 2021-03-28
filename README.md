@@ -162,4 +162,6 @@ run the following command to install ipython, which is a tricked out python shel
 pip3 install ipython
 ```
 
+#### Vscode python Extension
+
 everyone should install [this python vscode extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) 
